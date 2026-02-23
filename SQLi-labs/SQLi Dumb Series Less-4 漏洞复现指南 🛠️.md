@@ -1,4 +1,4 @@
-# SQLi Dumb Series Less-4 漏洞复现指南 🛠️
+# SQLi Dumb Series Less-4
 
 Less-4 是一个典型的 **双引号+括号闭合** 的联合查询注入漏洞，下面是完整的复现步骤：
 
